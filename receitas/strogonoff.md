@@ -1,6 +1,6 @@
 # Strogonoff de Frango :chicken:
 
-###Ingredientes
+### Ingredientes
 
  - 4 colheres (sopa) de manteiga
 
@@ -17,7 +17,7 @@
 - 1 lata de Creme de Leite
   ​
 
-###Modo de preparo
+### Modo de preparo
 
 1. Em uma frigideira grande, derreta três colheres (sopa) da manteiga e doure o frango, aos poucos, em fogo alto.
 2. Retire a carne e coloque a manteiga restante.
